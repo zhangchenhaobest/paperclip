@@ -1,3 +1,29 @@
+# paperclip
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+The open-source app everyone uses to manage agents at work
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+大家都在用的开源工作 Agent 管理应用。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 <p align="center">
   <img src="doc/assets/banner.jpg" alt="Paperclip is the app people use to manage AI agents for work." width="720" />
 </p>
